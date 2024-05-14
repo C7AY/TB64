@@ -1,6 +1,5 @@
 # Timer-Base64
 **En**
-Web Timer+Base64
 The code is written in Delphi 12, compiled under Windows.
 The program outputs Edit1-2, in which data is set in the first time in seconds, in the second a word that is encrypted under Base64, then HTML code is created for integration into the site.
 The Encrypt button encodes the word and collects the code.
